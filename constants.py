@@ -73,4 +73,6 @@ BLACK = (0, 0, 0)
 GREY = (50, 50, 50)
 WHITE = (255, 255, 255)
 LIGHT_GRAY = (134, 134, 134)
+RED = (200,0,0)
 
+IMAGE_PATH = None 
