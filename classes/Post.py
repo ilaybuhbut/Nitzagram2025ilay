@@ -1,5 +1,5 @@
 import pygame
-
+import Comments
 from constants import *
 from helpers import screen
 
